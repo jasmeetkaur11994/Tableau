@@ -16,5 +16,5 @@ This project aims to perform exploratory data analysis (EDA) using Tableau to di
 The project explores the trends in the number and severity of forest fires in different regions of Canada, the causes of forest fires, and the impact of forest fires on the environment and local communities. The project also includes visualizations of the trends in forest fires caused by different factors such as lightning, human activity, and equipment use.
 
 ### Acknowledgments
-Internal Displacement Monitoring Centre
+Internal Displacement Monitoring Centre <br>
 Statistics Canada
